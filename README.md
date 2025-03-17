@@ -7,12 +7,12 @@ Este projeto é uma aplicação web simples para sortear amigos de uma lista, id
 
 ## 🔨 Funcionalidades do projeto
 
-    - Adicionar Amigos: Permite ao usuário adicionar nomes de amigos a uma lista.
-    - Adicionar vários Amigos: Permite ao usuário adicionar vários nomes de amigos a uma lista ao separar-los por virgulas.
-    - Visualizar Lista de Amigos: Exibe a lista de amigos adicionados.
-    - Sortear Amigo: Sorteia um amigo aleatoriamente da lista e exibe o nome sorteado.
-    - Limpar Campo: Limpa o campo de entrada de texto após adicionar um amigo.
-    - Mensagens de Validação: Exibe mensagens apropriadas se a lista de amigos estiver vazia ou se houver menos de dois amigos para sortear.
+Adicionar Amigos: Permite ao usuário adicionar nomes de amigos a uma lista.
+Adicionar vários Amigos: Permite ao usuário adicionar vários nomes de amigos a uma lista ao separar-los por virgulas.
+Visualizar Lista de Amigos: Exibe a lista de amigos adicionados.
+Sortear Amigo: Sorteia um amigo aleatoriamente da lista e exibe o nome sorteado.
+Limpar Campo: Limpa o campo de entrada de texto após adicionar um amigo.
+Mensagens de Validação: Exibe mensagens apropriadas se a lista de amigos estiver vazia ou se houver menos de dois amigos para sortear.
 
 
 ## ✔️ Técnicas e tecnologias utilizadas
