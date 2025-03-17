@@ -1,7 +1,7 @@
 <img src="https://a-static.besthdwallpaper.com/programming-coding-language-wallpaper-3440x1440-81236_15.jpg"  height=250px width='1100px'>
 
 # Challenge Amigo Secreto 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+https://github.com/fernandaloura/Challenge-Amigo-Secreto-/blob/bf60da2a1a50f4e8618b91090c7f63742c7138cc/amsec.gif
 
 ## :memo: Descrição:
 O projeto Challenge Amigo Secreto é um defafio da formação inicial em progração do programa ONE, com objetivo de aprimorar o aprendizado e habilidade em lógica de programação, como condicionais, laços de repetição, funções e array. 
